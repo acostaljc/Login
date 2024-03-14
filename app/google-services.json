@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988235745989",
+    "project_id": "peliculas-51f1b",
+    "storage_bucket": "peliculas-51f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988235745989:android:1d65955336f7a5059b3eac",
+        "android_client_info": {
+          "package_name": "juan.acosta.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc1QnCrug-kIUvNzqx8N56-iFHGc5_knE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
